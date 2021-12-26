@@ -5,6 +5,6 @@ node {
     }
     stage("show files"){
         bat "dir"
-        bat "python 335.py
+        bat "python 335.py"
     }
 }
